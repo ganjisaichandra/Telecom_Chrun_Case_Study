@@ -1,1 +1,1 @@
-# AI-Image-Generator
+# Telecom_Chrun_Case_Study
